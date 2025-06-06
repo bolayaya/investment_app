@@ -39,10 +39,10 @@ android/             # Android-specific configuration
 assets/              # Fonts, icons, etc. (if any)
 
 📄 About
-Name: Nur Aliya Yasmin Binti Mohamad Hafiz
-Matric Number: 2023103013
-Course: CS251
-Project: Flutter App _ Dividend Calculator App
+# Name: Nur Aliya Yasmin Binti Mohamad Hafiz
+# Matric Number: 2023103013
+# Course: CS251
+# Project: Flutter App _ Dividend Calculator App
 
 This application was developed as part of a final year project to demonstrate Flutter app development skills and provide users with a practical tool to estimate returns on their unit trust investments.
 
