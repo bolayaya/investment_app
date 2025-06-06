@@ -33,14 +33,6 @@ A minimalist Flutter mobile application that estimates investment dividends base
 - Android Studio 
 - Android Emulator
 
-```bash
-flutter pub get
-flutter run
-Build APK
-bash
-Copy
-Edit
-flutter build apk --release
 📂 Project Structure
 ├── main.dart        # Main code for UI and navigation
 android/             # Android-specific configuration
