@@ -46,9 +46,8 @@ Project: Flutter App _ Dividend Calculator App
 This application was developed as part of a final year project to demonstrate Flutter app development skills and provide users with a practical tool to estimate returns on their unit trust investments.
 
 🔗 GitHub Repository
-View on GitHub
+https://bolayaya.github.io/investment_app/
 
-(Replace with your actual GitHub link
-Youtube Video Presentation
-https://youtu.be/GbJ3ODaQl-g
+Youtube Representation
+- https://youtu.be/GbJ3ODaQl-g
 
